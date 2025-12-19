@@ -1,0 +1,846 @@
+{
+  "pao": {
+    "10": {
+      "p": "Obi-Wan",
+      "a": "Oozing",
+      "o": "Umbrella"
+    },
+    "11": {
+      "p": "John Wick",
+      "a": "Injecting",
+      "o": "Iceberg"
+    },
+    "12": {
+      "p": "Zorro",
+      "a": "Nuking",
+      "o": "Necklace"
+    },
+    "13": {
+      "p": "Mr. Bean",
+      "a": "Ejecting Or Emitting",
+      "o": "Mop"
+    },
+    "14": {
+      "p": "Andrew Tate",
+      "a": "Darting With Mouth",
+      "o": "Antenna"
+    },
+    "15": {
+      "p": "Sam Sulek",
+      "a": "Slinging",
+      "o": "Rope"
+    },
+    "16": {
+      "p": "Grinch",
+      "a": "Gunning",
+      "o": "Ladder"
+    },
+    "17": {
+      "p": "Togi",
+      "a": "Throwing",
+      "o": "Yo-Yo"
+    },
+    "18": {
+      "p": "Batman",
+      "a": "Hooking",
+      "o": "Bat"
+    },
+    "19": {
+      "p": "Peter Pan",
+      "a": "Pitching",
+      "o": "Pipe"
+    },
+    "20": {
+      "p": "Old And Young ",
+      "a": "Uppercutting",
+      "o": "Obsidian Shard Spear"
+    },
+    "21": {
+      "p": "Iron Man And War Machine",
+      "a": "Judoing",
+      "o": "Jigsaw Blade"
+    },
+    "22": {
+      "p": "Zig And Sharko",
+      "a": "Neutralizing",
+      "o": "Nail"
+    },
+    "23": {
+      "p": "Mario And Luigi",
+      "a": "Equipping",
+      "o": "Machete"
+    },
+    "24": {
+      "p": "Asterix And Obelix",
+      "a": "Decapitating",
+      "o": "Anchor"
+    },
+    "25": {
+      "p": "Rick And Morty",
+      "a": "Shadow Boxing",
+      "o": "Razor"
+    },
+    "26": {
+      "p": "Groot and Rocket",
+      "a": "Grappling",
+      "o": "Glass Shard"
+    },
+    "27": {
+      "p": "Tom and Jerry",
+      "a": "Tickling",
+      "o": "Toothpick"
+    },
+    "28": {
+      "p": "Beavis And Butt-head",
+      "a": "Headbutting",
+      "o": "Harpoon"
+    },
+    "29": {
+      "p": "Phineas And Ferb",
+      "a": "Questioning",
+      "o": "Pickaxe"
+    },
+    "30": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "31": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "32": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "33": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "34": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "35": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "36": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "37": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "38": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "39": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "40": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "41": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "42": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "43": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "44": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "45": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "46": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "47": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "48": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "49": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "50": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "51": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "52": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "53": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "54": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "55": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "56": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "57": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "58": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "59": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "60": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "61": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "62": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "63": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "64": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "65": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "66": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "67": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "68": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "69": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "70": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "71": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "72": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "73": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "74": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "75": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "76": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "77": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "78": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "79": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "80": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "81": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "82": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "83": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "84": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "85": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "86": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "87": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "88": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "89": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "90": {
+      "p": "Ogre",
+      "a": "",
+      "o": ""
+    },
+    "91": {
+      "p": "",
+      "a": "",
+      "o": ""
+    },
+    "92": {
+      "p": "Zeus",
+      "a": "",
+      "o": ""
+    },
+    "93": {
+      "p": "Elf",
+      "a": "",
+      "o": ""
+    },
+    "94": {
+      "p": "Dragon",
+      "a": "",
+      "o": ""
+    },
+    "95": {
+      "p": "Sprite Or Fairy",
+      "a": "",
+      "o": ""
+    },
+    "96": {
+      "p": "Lego Character",
+      "a": "",
+      "o": ""
+    },
+    "97": {
+      "p": "Yoda",
+      "a": "",
+      "o": ""
+    },
+    "98": {
+      "p": "Harry Potter",
+      "a": "",
+      "o": ""
+    },
+    "99": {
+      "p": "Quest NPC",
+      "a": "",
+      "o": ""
+    },
+    "00": {
+      "p": "Luchino",
+      "a": "Orbiting",
+      "o": "Onion"
+    },
+    "01": {
+      "p": "Stefano",
+      "a": "Juggling",
+      "o": "Jupiter"
+    },
+    "02": {
+      "p": "Marti",
+      "a": "Zooming",
+      "o": "Nuts"
+    },
+    "03": {
+      "p": "Jesus",
+      "a": "Mixing",
+      "o": "Eyeball"
+    },
+    "04": {
+      "p": "Butch",
+      "a": "Drifting",
+      "o": "Atom"
+    },
+    "05": {
+      "p": "Vez",
+      "a": "Rolling",
+      "o": "Ring"
+    },
+    "06": {
+      "p": "Pantos",
+      "a": "Lapping",
+      "o": "Globe"
+    },
+    "07": {
+      "p": "Gio",
+      "a": "Turning",
+      "o": "Tire"
+    },
+    "08": {
+      "p": "Mirko",
+      "a": "Hula-hooping",
+      "o": "Ball"
+    },
+    "09": {
+      "p": "Mica",
+      "a": "Popping",
+      "o": "Pearl"
+    }
+  },
+  "places": [
+    {
+      "name": "Ramp",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Open Space",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Garage",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Panic Doors",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Cellar",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Basement Stairs",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Lift",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Landing",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Entrance",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Laundry",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Bedroom",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Living",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Utility",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Study Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Balcony",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Bathroom",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Kitchen",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Granny’s Extra Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Main Balcony",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Antechamber",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Downstairs Bathroom",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Dining Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Living Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "House Stairs",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Kids' Bathroom",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Games Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Terrace",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Giorgia’s Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Giorgia’s Closet",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Stefano’s Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Laundry Room",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Parents’ Bedroom",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Parents’ Bathroom",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    },
+    {
+      "name": "Parents’ Closet",
+      "loci": [
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
+      ]
+    }
+  ]
+}
