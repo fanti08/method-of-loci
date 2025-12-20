@@ -101,54 +101,54 @@
       "o": "Pickaxe"
     },
     "30": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Osiris",
+      "a": "Oozing",
+      "o": "Oreos"
     },
     "31": {
       "p": "Jesus",
-      "a": "",
-      "o": ""
+      "a": "Jaw Dropping",
+      "o": "Ice Cream"
     },
     "32": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Zeus",
+      "a": "Nose Picking",
+      "o": "Nuggets"
     },
     "33": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Mary",
+      "a": "Mewing",
+      "o": "McToast"
     },
     "34": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Adam",
+      "a": "Admiring",
+      "o": "Donut"
     },
     "35": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Rabbi",
+      "a": "Spitting",
+      "o": "Subway 1mt Sandwich"
     },
     "36": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Light Bringing Angel",
+      "a": "Laughing",
+      "o": "Lollipop"
     },
     "37": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Thor",
+      "a": "Yawning",
+      "o": "Tacos"
     },
     "38": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Buddha",
+      "a": "Blushing",
+      "o": "Hot Dog"
     },
     "39": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Pope",
+      "a": "Puking",
+      "o": "Pizza"
     },
     "40": {
       "p": "",
@@ -352,7 +352,7 @@
     },
     "80": {
       "p": "Usher",
-      "a": "",
+      "a": "Organizing Objects",
       "o": "Organ"
     },
     "81": {
@@ -411,7 +411,7 @@
       "o": "Jenga"
     },
     "92": {
-      "p": "Zeus",
+      "p": "Ninja",
       "a": "Navigating",
       "o": "Nerf Gun"
     },
