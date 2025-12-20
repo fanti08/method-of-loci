@@ -2,7 +2,7 @@
   "pao": {
     "10": {
       "p": "Obi-Wan",
-      "a": "Oozing",
+      "a": "Underhand Tossing",
       "o": "Umbrella"
     },
     "11": {
@@ -106,7 +106,7 @@
       "o": ""
     },
     "31": {
-      "p": "",
+      "p": "Jesus",
       "a": "",
       "o": ""
     },
@@ -351,54 +351,54 @@
       "o": ""
     },
     "80": {
-      "p": "",
+      "p": "Usher",
       "a": "",
-      "o": ""
+      "o": "Organ"
     },
     "81": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Judge",
+      "a": "Ironing",
+      "o": "Jukebox"
     },
     "82": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Zookeeper",
+      "a": "Nailing",
+      "o": "Noisemaker"
     },
     "83": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Miner",
+      "a": "Mowing",
+      "o": "Maracas"
     },
     "84": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Doctor",
+      "a": "Disinfecting",
+      "o": "Drum"
     },
     "85": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Sheriff",
+      "a": "Sweeping",
+      "o": "Saxophone"
     },
     "86": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Gardener",
+      "a": "Laundering",
+      "o": "Guitar"
     },
     "87": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Teacher",
+      "a": "Tiling Floor",
+      "o": "Triangle"
     },
     "88": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Hacker",
+      "a": "Bending Fabrics",
+      "o": "Harmonica"
     },
     "89": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Pilot",
+      "a": "Painting",
+      "o": "Piano"
     },
     "90": {
       "p": "Ogre",
@@ -466,7 +466,7 @@
       "o": "Nuts"
     },
     "03": {
-      "p": "Jesus",
+      "p": "Nonna",
       "a": "Mixing",
       "o": "Eyeball"
     },
