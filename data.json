@@ -481,7 +481,7 @@
       "o": "Ring"
     },
     "06": {
-      "p": "Pantos",
+      "p": "Mattia",
       "a": "Lapping",
       "o": "Globe"
     },
@@ -505,51 +505,51 @@
     {
       "name": "Ramp",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Lock",
+        "Automatic Door",
+        "Top Of Ramp",
+        "Middle Of Ramp",
+        "Bottom Of Ramp"
       ]
     },
     {
       "name": "Open Space",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "First Point",
+        "Second Point",
+        "Third Point",
+        "Fourth Point",
+        "Fire Extinguisher"
       ]
     },
     {
       "name": "Garage",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Car",
+        "Bottles",
+        "Gym",
+        "Bikes",
+        "Alarm"
       ]
     },
     {
       "name": "Panic Doors",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Pre Door",
+        "First Door",
+        "Between Doors",
+        "Second Door",
+        "Post Door"
       ]
     },
     {
       "name": "Cellar",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "First Heavy Door",
+        "Cellars",
+        "First Heavy Door",
+        "Food Rack",
+        "Plastic Storage Cabinet"
       ]
     },
     {
