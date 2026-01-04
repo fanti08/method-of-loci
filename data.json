@@ -151,54 +151,54 @@
       "o": "Pizza"
     },
     "40": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Unicorn",
+      "a": "Overhead Pressing ",
+      "o": "UFO"
     },
     "41": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Jellyfish",
+      "a": "Jumping Jacking",
+      "o": "Jetpack"
     },
     "42": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Zebra",
+      "a": "Zigzag Sprinting",
+      "o": "Nascar Car"
     },
     "43": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Elephant",
+      "a": "Muscle Upping",
+      "o": "Excavator"
     },
     "44": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Dog",
+      "a": "Deadlifting",
+      "o": "Drone"
     },
     "45": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Snake",
+      "a": "Squatting",
+      "o": "Submarine"
     },
     "46": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Lion",
+      "a": "Lunging",
+      "o": "Go Kart"
     },
     "47": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Turtle",
+      "a": "Trademill Walking",
+      "o": "Tank"
     },
     "48": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Hippo",
+      "a": "Bench Pressing",
+      "o": "Hoverboard"
     },
     "49": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Penguin",
+      "a": "Push Upping",
+      "o": "Pickup Truck"
     },
     "50": {
       "p": "",
@@ -301,54 +301,54 @@
       "o": ""
     },
     "70": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Ulysses",
+      "a": "Unicycling",
+      "o": "USB Stick"
     },
     "71": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Julius Caesar",
+      "a": "Ice Skating",
+      "o": "Iphone"
     },
     "72": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Napoleon",
+      "a": "Zumbaing",
+      "o": "Nintendo Switch"
     },
     "73": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Mussolini",
+      "a": "Mountaineering",
+      "o": "Macbook"
     },
     "74": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Alexander The Great",
+      "a": "Dribbling",
+      "o": "Apple Watch"
     },
     "75": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Stalin",
+      "a": "Serving Balls",
+      "o": "Robot Vacuum"
     },
     "76": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Gandhi",
+      "a": "Goalkeeping",
+      "o": "GoPro"
     },
     "77": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Trump",
+      "a": "Yogaing ",
+      "o": "TV"
     },
     "78": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Hitler",
+      "a": "Bodybuilding Posing",
+      "o": "Headphones"
     },
     "79": {
-      "p": "",
-      "a": "",
-      "o": ""
+      "p": "Putin",
+      "a": "Parkouring",
+      "o": "Printer"
     },
     "80": {
       "p": "Usher",
@@ -481,7 +481,7 @@
       "o": "Ring"
     },
     "06": {
-      "p": "Mattia",
+      "p": "Pantos",
       "a": "Lapping",
       "o": "Globe"
     },
@@ -505,51 +505,51 @@
     {
       "name": "Ramp",
       "loci": [
-        "Lock",
-        "Automatic Door",
-        "Top Of Ramp",
-        "Middle Of Ramp",
-        "Bottom Of Ramp"
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
       ]
     },
     {
       "name": "Open Space",
       "loci": [
-        "First Point",
-        "Second Point",
-        "Third Point",
-        "Fourth Point",
-        "Fire Extinguisher"
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
       ]
     },
     {
       "name": "Garage",
       "loci": [
-        "Car",
-        "Bottles",
-        "Gym",
-        "Bikes",
-        "Alarm"
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
       ]
     },
     {
       "name": "Panic Doors",
       "loci": [
-        "Pre Door",
-        "First Door",
-        "Between Doors",
-        "Second Door",
-        "Post Door"
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
       ]
     },
     {
       "name": "Cellar",
       "loci": [
-        "First Heavy Door",
-        "Cellars",
-        "First Heavy Door",
-        "Food Rack",
-        "Plastic Storage Cabinet"
+        "Locus 1",
+        "Locus 2",
+        "Locus 3",
+        "Locus 4",
+        "Locus 5"
       ]
     },
     {
