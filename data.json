@@ -505,41 +505,41 @@
     {
       "name": "Ramp",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Lock",
+        "Gate",
+        "Ramp Top",
+        "Ramp Middle",
+        "Ramp Bottom"
       ]
     },
     {
       "name": "Open Space",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Parallel Corridor",
+        "Turn",
+        "Perpendicular Corridor",
+        "Fire Extinguisher",
+        "Garage Door"
       ]
     },
     {
       "name": "Garage",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Alarm",
+        "Car",
+        "Bottles",
+        "Gym",
+        "Bicycles"
       ]
     },
     {
       "name": "Panic Doors",
       "loci": [
-        "Locus 1",
-        "Locus 2",
-        "Locus 3",
-        "Locus 4",
-        "Locus 5"
+        "Before",
+        "Panic Door 1",
+        "Middle",
+        "Panic Door 1",
+        "After"
       ]
     },
     {
